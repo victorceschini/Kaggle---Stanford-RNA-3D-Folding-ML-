@@ -87,7 +87,11 @@ Usei um notebook público com bom desempenho como referência para entender a l�
 ### Submissões e leaderboard
 Número de submissões: 2
 Best score: 0.286
-Melhor posição pública: 628 (data: 16/02/26)
+Melhor posição pública: 633 (data: 16/02/26)
+
+<img width="1393" height="234" alt="image" src="https://github.com/user-attachments/assets/cfb8bb34-faa6-4004-9d36-d75b833b848a" />
+
+<img width="1523" height="670" alt="image" src="https://github.com/user-attachments/assets/e87f56d2-92fb-48b4-beac-2a4d6317f961" />
 
 ### Desafios enfrentados
 - Compatibilidade de pacotes com a versão do Python do kernel;
