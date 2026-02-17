@@ -85,9 +85,9 @@ Usei um notebook público com bom desempenho como referência para entender a l�
 - Ensemble CV mean RMSE: 32.1382
 
 ### Submissões e leaderboard
-Número de submissões: 2
-Best score: 0.286
-Melhor posição pública: 633 (data: 16/02/26)
+- Número de submissões: 2
+- Best score: 0.286
+- Melhor posição pública: 633 (data: 16/02/26)
 
 <img width="1393" height="234" alt="image" src="https://github.com/user-attachments/assets/cfb8bb34-faa6-4004-9d36-d75b833b848a" />
 
